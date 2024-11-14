@@ -1,4 +1,5 @@
-This Python console application (main.py) is designed for calculating the primary characteristics of brushed DC motors.
+In this project, we developed a Python console application (main.py) designed to calculate the primary characteristics of brushed DC motors and teach students how to interpret motor datasheets. The application facilitates the analysis of essential motor parameters such as resistance, inductance, torque constant, back-EMF constant, and friction torque, which are typically provided in datasheets. It enables users to validate datasheet values by comparing them with theoretical calculations for metrics like maximum speed, torque, efficiency, and power. Additionally, the application generates performance graphs, such as speed-to-torque and torque-to-efficiency characteristics, to provide visual insights into motor behaviour. This tool is not only useful for engineers in evaluating motor performance but also serves as an educational resource for understanding motor fundamentals and datasheet analysis.
+
 The report in "Analysis of datasheets of brushed DC motors.pdf" provides instructions on how to navigate through datasheets and extract parameters essential for modeling the motor.
 
 Features:
